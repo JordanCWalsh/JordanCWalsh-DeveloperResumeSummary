@@ -1,5 +1,5 @@
 # JordanCWalsh-DeveloperResumeSummary
-first repo tut
+first repo to learn Git ropes
 
 JORDAN C WALSH
 
